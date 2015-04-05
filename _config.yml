@@ -1,10 +1,10 @@
 # Site settings
-title:       Software and the World Wide Interwebs       
+title:       
 email:       
 author:      Nick Rakochy
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+description: "A blog about software and the world wide web"
 baseurl:     ""
-url:         "https://nrakochy.github.io/"
+url:         "https://nrakochy.github.io"
 
 # Google analytics
 google_analytics:
