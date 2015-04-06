@@ -1,4 +1,4 @@
-# A Muse
+# Code Works and the Judgment of Thamus
 Blogging Software and the World Wide Interwebs
 
 ## Theme
