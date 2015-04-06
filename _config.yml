@@ -4,7 +4,7 @@ email:
 author:      Nick Rakochy
 description: "A blog about software and the world wide web"
 baseurl:     ""
-url:         "https://nrakochy.github.io"
+url:         "http://nrakochy.github.io"
 
 # Google analytics
 google_analytics: UA-61514778-1
