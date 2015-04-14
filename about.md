@@ -1,8 +1,11 @@
 ---
 layout: page
-title: The Judgment of Thamus
+title:
 permalink: /about/
 ---
+
+This is a blog about code and reflections on technology in the midst of a unprecedented era of technological innovation at a breath-taking (and perhaps perilous) speed.
+
 
 What is the judgment of Thamus? In his book [Technopology](https://books.google.com/books?id=gYrIVidSiLIC&pg=PT12&dq=Technopoly+AND+Thamus&hl=en&sa=X&ei=ClYtVZbzNtCrogSDm4DYCQ&ved=0CCQQ6AEwAQ#v=onepage&q=Technopoly%20AND%20Thamus&f=false),
 Neil Postman offers a counterweight to the blind adoption of technology.
@@ -17,9 +20,5 @@ he assumed technology would only be a burden. However, Postman claims (rightly i
 
 
 Technology gives, and it takes away. It is not an either-or proposition, and it is not neutral.
-
-
-This is a blog about code and reflections on technology in the midst of a unprecedented era of technological innovation at a breath-taking (and perhaps perilous) speed.
-
 
 I am a Christian. For my reflections on the good news about Jesus, see my blog [Strangers and Exiles](http://strangersandexiles.com).
