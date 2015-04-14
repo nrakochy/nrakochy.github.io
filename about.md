@@ -1,6 +1,6 @@
 ---
 layout: page
-title:
+title: About
 permalink: /about/
 ---
 
@@ -19,6 +19,7 @@ he assumed technology would only be a burden. However, Postman claims (rightly i
 > new technologies can do and are incapable of imagining what they will undo.
 
 
-Technology gives, and it takes away. It is not an either-or proposition, and it is not neutral.
+Technology gives, and it takes away. It is not an either-or proposition, and it is not neutral. I am pro-technology, but
+with both eyes open.
 
 I am a Christian. For my reflections on the good news about Jesus, see my blog [Strangers and Exiles](http://strangersandexiles.com).
