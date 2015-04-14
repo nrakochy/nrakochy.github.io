@@ -3,11 +3,8 @@ layout:     post
 title:      Idempotent
 date:       2015-04-14 12:00:00
 summary:    What does idempotent mean in HTTP-speak?
-categories: http idempotent
+categories: idempotent
 ---
-
-
-Idempotent
 
 What does idempotent mean in HTTP-speak? In a recent pairing session, my counterpart kept affirming idempotency for the functionality that we were building out. 
 This was all fine and good, because the function was idempotent.
