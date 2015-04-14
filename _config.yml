@@ -1,5 +1,5 @@
 # Site settings
-title:       Remebmer the Judgment of Thamus
+title:       Remember the Judgment of Thamus
 email:       
 author:      Nick Rakochy
 description: "A blog about software and the world wide web"
@@ -16,7 +16,7 @@ show_post_footers:  false
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname:
+disqus_shortname: nrakochy
 
 # Social icons
 show_social_icons: true
