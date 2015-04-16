@@ -13,8 +13,8 @@ Neil Postman offers a counterweight to the blind adoption of technology.
 
 
 
-While he makes it clear that he is not anti-technology, he sounds a warning. Thamus the one-eyed prophet was incorrect 
-in that he assumed technology would only be a burden. 
+While he makes it clear that he is not anti-technology, he sounds a warning. Thamus was incorrect
+in that he assumed technology would only be a burden.
 
 
 However, Postman claims (rightly in my estimation):
