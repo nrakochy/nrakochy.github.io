@@ -8,14 +8,16 @@ This is a blog about code and reflections on technology in the midst of a unprec
 
 
 
-What is the judgment of Thamus? In his book [Technopology](https://books.google.com/books?id=gYrIVidSiLIC&pg=PT12&dq=Technopoly+AND+Thamus&hl=en&sa=X&ei=ClYtVZbzNtCrogSDm4DYCQ&ved=0CCQQ6AEwAQ#v=onepage&q=Technopoly%20AND%20Thamus&f=false),
+What is the judgment of Thamus? In his book [Technopoly](https://books.google.com/books?id=gYrIVidSiLIC&pg=PT12&dq=Technopoly+AND+Thamus&hl=en&sa=X&ei=ClYtVZbzNtCrogSDm4DYCQ&ved=0CCQQ6AEwAQ#v=onepage&q=Technopoly%20AND%20Thamus&f=false),
 Neil Postman offers a counterweight to the blind adoption of technology.
 
 
 
-While he makes it clear that he is not anti-technology, he sounds a warning. Thamus was incorrect in that
-he assumed technology would only be a burden. However, Postman claims (rightly in my estimation):
+While he makes it clear that he is not anti-technology, he sounds a warning. Thamus the one-eyed prophet was incorrect 
+in that he assumed technology would only be a burden. 
 
+
+However, Postman claims (rightly in my estimation):
 
 
 > We are currently surrounded by throngs of zealous Theuths, one-eyed prophets who can only see what
