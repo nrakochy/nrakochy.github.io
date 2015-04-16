@@ -19,43 +19,34 @@ It was working earlier in the day, but that was my last point of reference. Ente
 
 Git allows you to checkout a previous commit as a branch to work from. In order to see your git history, you 
 need the git log:
-```
-git log
-```
+    git log
 
 This will give you a list of commits:
-```
-commit 123456abcdefghijklmnop123456lmnopq123456
-Author: user <user@example.com>
-Date:   Tue Apr 14 13:42:40 2015 -0500
+    commit 123456abcdefghijklmnop123456lmnopq123456
+    Author: user <user@example.com>
+    Date:   Tue Apr 14 13:42:40 2015 -0500
 
-    Added Procfile
+        Added Procfile
 
-commit 123456abcdefghijklmnop123456lmnopq987654
-Author: user <user@example.com>
-Date:   Tue Apr 14 13:39:55 2015 -0500
+    commit 123456abcdefghijklmnop123456lmnopq987654
+    Author: user <user@example.com>
+    Date:   Tue Apr 14 13:39:55 2015 -0500
 
-    Changed to Puma server
-```
+        Changed to Puma server
 
 In order to switch to a branch with the commit, you need to checkout the branch
-```
-git checkout -b 123456abcdefghijklmnop123456lmnopq987654
-```
+    git checkout -b 123456abcdefghijklmnop123456lmnopq987654
 
 Note: if you have already done this, then the branch exists already. In that case get rid of the -b
 to switch the branch:
-```
-git checkout 123456abcdefghijklmnop123456lmnopq987654
-```
+
+    git checkout 123456abcdefghijklmnop123456lmnopq987654
 
 This process was helpful to see where I introduced the bug, but not so much to fix it i.e. you
 probably do not want to merge from this git branch that you just created.
 
 Once you are on the branch, you can fire up ye olde rails server:
-```
-rails s
-```
+    rails s
 
 Open your browser on the your localhost, and check the feature to see if it is working.
 If not, repeated process above. If so, you are on the right path to find the error. Happy bug hunting.
