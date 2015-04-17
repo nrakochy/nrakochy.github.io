@@ -22,6 +22,13 @@ In order to add a comment, you should use the `skip` syntax:
         expect(regular_test_suite_run).to eq(data)
     end
 
+Or this
+
+    it "returns a wonderful data set" do
+        skip "Great reason that I skipped this test"
+        expect(regular_test_suite_run).to eq(data)
+    end
+
 This will add your reason to the pending spec:
 
     1) ClassName#methodname returns a wonderful data set
