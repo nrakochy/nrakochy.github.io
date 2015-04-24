@@ -2,7 +2,7 @@
 layout:     post
 title:      Switch Ruby Version In Your Terminal with rbenv
 date:       2015-04-24 12:00:00
-summary:    `rbenv shell 2.2.0`
+summary:    rbenv shell 2.2.0
 categories: rbenv
 ---
 
