@@ -11,13 +11,11 @@ Coming to the Ember framework with a Rails perspective has caused a bit
 of confusion for me.
 
 There are a few assumptions that I have made, and now realize the need to go back and get the basic 
-terminology correct before proceeding.
-
-Without further ado... the Ember controller...
+terminology correct before proceeding. Without further ado... the `Ember controller`...
 
 According to the Ember docs, [Ember controllers](http://guides.emberjs.com/v1.11.0/controllers/):
 
-   allow you to decorate your models with display logic
+    allow you to decorate your models with display logic
 
 The Ember controller is a decorator! (Check out Martin Folwer's [Presentation model](http://martinfowler.com/eaaDev/PresentationModel.html)
 or the similar [Model-View-ViewModel](http://en.wikipedia.org/wiki/Model_View_ViewModel) for more on the pattern)
