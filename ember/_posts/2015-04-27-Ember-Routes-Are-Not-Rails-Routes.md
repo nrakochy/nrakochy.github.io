@@ -24,7 +24,7 @@ Second, it is important to distinguish between the `Router` and the `route`. The
     responsible for displaying templates, loading data, and otherwise setting up application state.
     It does so by matching the current URL to the routes that you've defined.
 
-So the Router is the basic building block to the app. This is importnat. When you enter
+So the Router is the basic building block to the app. This is important. When you enter
 
     ember g resource test
 
@@ -38,7 +38,7 @@ You get a User `model`, `route`, `template`, and a  unit test file (perhaps broa
         this.resource('test', function() {});
     });
 
-Under this resource, `Ember routes` can be defined, and you get some for free, but the key takeaway is the `Router`
+Under this resource,`Ember routes` can be defined, and you get some for free, but the key takeaway is the `Router`
 is loading the application state.
 
 So what is an Ember route? The [Ember route](http://guides.emberjs.com/v1.11.0/concepts/core-concepts/):
@@ -48,13 +48,16 @@ So what is an Ember route? The [Ember route](http://guides.emberjs.com/v1.11.0/c
 In Rails-speak, this is functionality is paralleled by the Rails `Controller`, not `root/config/routes.rb`!
 
 So when I hear `Ember route`, it has been helpful for me to compare it to `Rails Controller` (obviously there is not one-to-one
-functionality). This has alleviated some preconceived misconceptions that I had as I begin learning Ember.
+functionality).
 
-Further, Rails `root/config/routes.rb` is handled by the `Router`.
+Further, Rails `root/config/routes.rb` is handled by the `Router` not `routes`.
+
+This has alleviated some preconceived misconceptions that I have as I learn Ember.
 
 I want to dive a bit deeper into the `Router` and write it up for a different post and will keep trying to work through the
-clarification of Ember-speak v. Rails-speak. Please hit me up on Twitter if you have any additional insight/clarification/corrections
-on this.
+clarification of Ember-speak v. Rails-speak. 
+
+Please hit me up on Twitter if you have any additional insight/clarification/corrections on this.
 
 
 
