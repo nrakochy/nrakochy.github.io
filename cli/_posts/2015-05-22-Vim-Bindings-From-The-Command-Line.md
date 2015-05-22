@@ -6,7 +6,7 @@ summary:    Oh My Zsh has VIM mode!
 categories: Oh-My-Zsh
 ---
 
-Oh My Zsh has a VIM mode plugin! I am not sure how I missed this.
+Oh My Zsh has a [VIM mode plugin](https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/vi-mode)! I am not sure how I missed this.
 
 To activate, open your `~/.zshrc` and add vi-mode to your plugins. e.g.
 
