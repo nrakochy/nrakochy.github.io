@@ -3,7 +3,7 @@ layout:     post
 title:      Vim Bindings in the Command Line
 date:       2015-05-22 12:00:00
 summary:    Oh My Zsh has VIM mode!
-categories: rbenv
+categories: Oh-My-Zsh
 ---
 
 Oh My Zsh has a VIM mode plugin! I am not sure how I missed this.
