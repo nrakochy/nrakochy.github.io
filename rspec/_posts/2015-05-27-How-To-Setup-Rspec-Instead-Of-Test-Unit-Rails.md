@@ -22,11 +22,11 @@ Next, make sure you have Rspec in your Gemfile:
 
 Finally, use the Rails installer to generate the specs:
 
-   rails g rspec:install
+    rails g rspec:install
 
 To check that this worked, you should see a `spec` directory instead of `test` from the project root:
 
-   ls new_project_name/spec
+    ls new_project_name/spec
 
 Don't forget to prepare the db for testing after you run any new migrations:
 
