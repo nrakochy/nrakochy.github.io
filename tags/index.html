@@ -16,7 +16,7 @@ title: Tags
   <ul>
   {% for post in site.categories[category] %}
     <li>
-      {% include postlistitem.html %}
+     {{ post.date | date: "%B %d, %Y" }}: <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
   </ul>
