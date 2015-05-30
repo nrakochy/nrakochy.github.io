@@ -51,3 +51,4 @@ permalink:    pretty
 paginate:     5
 sass:
   compressed: true
+gems: ['jekyll-lunr-js-search']
