@@ -1,8 +1,8 @@
 ---
 layout:     post
 title:      How to Use Plugins with Jekyll on Github Pages
-date:       2015-06-14 12:00:00
-summary:    [Github Pages](http://jekyllrb.com/docs/plugins/) disables custom plugins for security. How can I use them with Jekyll on Github Pages?
+date:       2015-06-15 12:00:00
+summary:    Github Pages disables custom plugins for security. How can I use them with Jekyll on Github Pages?
 categories: Plugins
 ---
 
