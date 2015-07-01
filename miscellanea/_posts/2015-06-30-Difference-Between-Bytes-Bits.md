@@ -1,7 +1,7 @@
 ﻿---
 layout:     post
 title:      What's the difference between Bytes and Bits in computer-speak? 
-date:       2015-06-30 12:00:00
+date:       2015-07-01 12:00:00
 summary:    Bits- Data in motion. Bytes- Data at rest.
 categories: Computers
 ---
