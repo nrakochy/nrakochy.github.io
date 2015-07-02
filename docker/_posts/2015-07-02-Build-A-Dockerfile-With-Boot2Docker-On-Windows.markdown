@@ -18,7 +18,7 @@ This gives you access to the Docker container world within a VM, not your local 
 
 The simplest way for what I needed was to use VirtualBox's sharing system, which is integrated with Boot2Docker.
 
-So, open up VirtualBox - Settings - Shared Folders to see the path where the local machine's folders have been mounted.
+So, open up `VirtualBox - Settings - Shared Folders` to see the path where the local machine's folders have been mounted.
 
 Once you have the path, you can change into it, which will then allow you to build your docker file. For me: 
 
