@@ -31,6 +31,7 @@ categories: MS-DOS
 
 
 Notes:
+
 * The more pager can also be used to page through a file one screen at a time. 
 
 * The mv command can both move a file and, if you want to rename a file in the same directory, "move" that file to the same directory with a new name.
