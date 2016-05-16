@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      Find first match from sequence of hashes
+title:      Find hash with matching key/value from sequence of hashes in Clojure.
 date:       2016-05-16 13:00:00
-summary:    Find first matching record in sequence of hashes with unique value in a given key
-categories: Clojure, Clojure cheatsheet 
+summary:    Find first matching record in Clojure sequence of hashes with unique value in a given key
+categories: cheatsheet 
 ---
 Given a sequence of maps with common keys that have unique values, one need only to find the first matching. In this case, I needed to match a given URL to a defined URL with a path key: 
 
