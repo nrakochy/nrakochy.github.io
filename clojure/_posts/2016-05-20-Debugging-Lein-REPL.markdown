@@ -19,7 +19,7 @@ To see the root-cause, you can observe that in a nice map which gives `:cause`, 
 
     (root-cause *e)
 
-For a full stacktrace, use the Clojure print method which defaults to unlimimted lines shown (pass # of lines as 2nd argument to limit): 
+For a full stacktrace, use the Clojure print method which defaults to unlimited lines shown (pass # of lines as 2nd argument to limit): 
     
     (print-stack-trace *e)
 
