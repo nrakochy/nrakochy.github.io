@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Debugging a Clojure Exception in the Lien REPL 
+title:      Debugging a Clojure Exception in the Lein REPL 
 date:       2016-05-20 13:00:00
 summary:    Tips for debugging an exception in the Leiningen REPL. 
 categories: cheatsheet 
