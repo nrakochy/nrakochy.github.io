@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Saving Files in a Different Directory   
+title:      Saving Files in a Different Directory with Clojure   
 date:       2016-06-21 13:00:00
 summary:    Saving (platform-independent) files to a different directory in the filesystem 
 categories: io 
